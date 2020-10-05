@@ -12,5 +12,9 @@ yang telah dilakukan bisa pake
 code bash git log --all --decorate
 --oneline --graph . Untuk
 mempersingkatnya penulis</p>
+<ol>
+    <li>list 1</li>
+     <li>list 2</li>
+</ol>
 </body>
 </html>

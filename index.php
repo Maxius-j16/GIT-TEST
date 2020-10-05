@@ -7,5 +7,10 @@
 </head>
 <body>
     <h1>ujicoba</h1>
+    <p>Kita ingin melihat visualisasi
+yang telah dilakukan bisa pake
+code bash git log --all --decorate
+--oneline --graph . Untuk
+mempersingkatnya penulis</p>
 </body>
 </html>
